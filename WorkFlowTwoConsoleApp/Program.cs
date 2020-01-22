@@ -10,6 +10,8 @@ namespace WorkFlowTwoConsoleApp
     {
         public static void Main(string[] args)
         {
+            NumberedPattern.Numeric();
+            Amstrong.AmstrongCalulation();
         }
     }
 }
