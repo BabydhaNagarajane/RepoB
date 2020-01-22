@@ -10,6 +10,8 @@ namespace WorkFlowTwoConsoleApp
     {
         public static void Main(string[] args)
         {
+            Factorial.display(10);
+            SymbolPattern.Star();
         }
     }
 }
